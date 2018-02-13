@@ -1,6 +1,6 @@
-# _A Bear Tamagotchi_
+# _Weather API_
 
-#### _A Animal that we have to feed and play with to keep happy._
+#### _A Simple Weather Api that returns humidity and Kelvins from a city of the users choice._
 
 #### By _**Ross Fletcher & Kate Trahan**_
 
@@ -10,8 +10,7 @@
 
 ## Setup/Installation Requirements
 
-* Clone this repo. <br />
-`$ git clone https://github.com/rossfletcher19/romanNum.git`
+* Clone repo. <br />
 * cd into the cloned repo and run the following command from your terminal. <br/>
 `$ npm install && bower install`
 * Serve a production version of the web app by running this gulp task <br/>
@@ -21,7 +20,10 @@
 
 ## Technologies Used
 
-
+  * Atom
+  * github
+  * javascript
+  * npm and bower
 
 ### License
 
